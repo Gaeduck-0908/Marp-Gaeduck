@@ -7,7 +7,7 @@
 :root {
   --color-background: #fff;
   --color-foreground: #333;
-  --color-highlight: rgb(254. 190. 73);
+  --color-highlight: rgb(254, 190, 73);
 }
 
 section {
@@ -34,7 +34,7 @@ section.lead {
 }
 
 section.lead h1 {
-  color: rgb(254. 190. 73);
+  color: rgb(254, 190, 73);
   text-align: left;
   background-image: url("logo.png");
   background-position: left;
@@ -43,7 +43,7 @@ section.lead h1 {
   padding-left: 110px;
 }
 section.lead h1 strong {
-  -webkit-text-stroke: 1px rgb(254. 190. 73);;
+  -webkit-text-stroke: 1px rgb(254, 190, 73);;
 }
 section.lead h2 {
   color: rgb(0, 32, 74);
@@ -51,7 +51,7 @@ section.lead h2 {
   padding-left: 110px;
 }
 section.lead h2 strong {
-  -webkit-text-stroke: 1px rgb(254. 190. 73);;
+  -webkit-text-stroke: 1px rgb(254, 190, 73);;
 }
 section.lead h3 {
   color: rgb(0, 32, 74);
@@ -59,7 +59,7 @@ section.lead h3 {
   padding-left: 110px;
 }
 section.lead h3 strong {
-  -webkit-text-stroke: 1px rgb(254. 190. 73);;
+  -webkit-text-stroke: 1px rgb(254, 190, 73);;
 }
 section.lead h4 {
   color: rgb(0, 32, 74);
@@ -67,7 +67,7 @@ section.lead h4 {
   padding-left: 110px;
 }
 section.lead h4 strong {
-  -webkit-text-stroke: 1px rgb(254. 190. 73);;
+  -webkit-text-stroke: 1px rgb(254, 190, 73);;
 }
 section.lead h5 {
   color: rgb(0, 32, 74);
@@ -75,7 +75,7 @@ section.lead h5 {
   padding-left: 110px;
 }
 section.lead h5 strong {
-  -webkit-text-stroke: 1px rgb(254. 190. 73);;
+  -webkit-text-stroke: 1px rgb(254, 190, 73);;
 }
 section.lead p {
   text-align: right;
@@ -105,7 +105,7 @@ section.cont p{
 
 section.end h1, section.end h2, section.end h3, section.end h4{
   text-align: center;
-  color: rgb(254. 190. 73);;
+  color: rgb(254, 190, 73);;
 }
 section.end p{
   text-align: center;
