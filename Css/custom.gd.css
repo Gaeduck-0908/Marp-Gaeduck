@@ -46,7 +46,7 @@ section.lead h1 strong {
   -webkit-text-stroke: 1px rgb(254, 190, 73);;
 }
 section.lead h2 {
-  color: rgb(0, 32, 74);
+  color: rgb(254, 190, 73);
   text-align: left;
   padding-left: 110px;
 }
@@ -54,7 +54,7 @@ section.lead h2 strong {
   -webkit-text-stroke: 1px rgb(254, 190, 73);;
 }
 section.lead h3 {
-  color: rgb(0, 32, 74);
+  color: rgb(254, 190, 73);
   text-align: left;
   padding-left: 110px;
 }
@@ -62,7 +62,7 @@ section.lead h3 strong {
   -webkit-text-stroke: 1px rgb(254, 190, 73);;
 }
 section.lead h4 {
-  color: rgb(0, 32, 74);
+  color: rgb(254, 190, 73);
   text-align: left;
   padding-left: 110px;
 }
@@ -70,7 +70,7 @@ section.lead h4 strong {
   -webkit-text-stroke: 1px rgb(254, 190, 73);;
 }
 section.lead h5 {
-  color: rgb(0, 32, 74);
+  color: rgb(254, 190, 73);
   text-align: left;
   padding-left: 110px;
 }
@@ -112,7 +112,7 @@ section.end p{
 }
 
 header {
-  background-color: rgb(0, 32, 74);;
+  background-color: rgb(254, 190, 73);
   color: #fff;
   font-size: 1em;
   font-weight: 700;
