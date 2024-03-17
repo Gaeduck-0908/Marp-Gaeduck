@@ -7,7 +7,7 @@
 :root {
   --color-background: #fff;
   --color-foreground: #333;
-  --color-highlight: rgb(141,198,63);
+  --color-highlight: rgb(255, 221, 0);
 }
 
 section {
@@ -95,7 +95,7 @@ section.cont p{
 }
 
 section.cont pag{
-  color: rgb(7,42,96);
+  color: rgb(255, 166, 0);
   font-size: 20px;
   -webkit-text-stroke: 0px;
 }
