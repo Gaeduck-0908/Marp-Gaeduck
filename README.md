@@ -12,7 +12,7 @@
 }
 ```
 > Example
-```
+```markdown
 ---
 marp : true
 paginate: true
