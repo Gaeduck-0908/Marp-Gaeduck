@@ -54,28 +54,28 @@ section.lead h2 strong {
   -webkit-text-stroke: 1px rgb(254, 190, 73);;
 }
 section.lead h3 {
-  color: rgb(254, 190, 73);
+  color: rgb(0, 32, 74);
   text-align: left;
   padding-left: 110px;
 }
 section.lead h3 strong {
-  -webkit-text-stroke: 1px rgb(254, 190, 73);;
+  -webkit-text-stroke: 1px rgb(0, 32, 74);
 }
 section.lead h4 {
-  color: rgb(254, 190, 73);
+  color: rgb(0, 32, 74);
   text-align: left;
   padding-left: 110px;
 }
 section.lead h4 strong {
-  -webkit-text-stroke: 1px rgb(254, 190, 73);;
+  -webkit-text-stroke: 1px rgb(0, 32, 74);
 }
 section.lead h5 {
-  color: rgb(254, 190, 73);
+  color: rgb(0, 32, 74);
   text-align: left;
   padding-left: 110px;
 }
 section.lead h5 strong {
-  -webkit-text-stroke: 1px rgb(254, 190, 73);;
+  -webkit-text-stroke: 1px rgb(0, 32, 74);;
 }
 section.lead p {
   text-align: right;
